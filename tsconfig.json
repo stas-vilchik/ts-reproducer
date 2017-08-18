@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitAny": true,
+    "strict": true,
+    "target": "es5",
+    "lib": ["es2017", "dom"],
+    "module": "esnext"
+  },
+  "include": ["./src/**/*"]
+}
